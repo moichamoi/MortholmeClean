@@ -1,0 +1,28 @@
+# Archivos temporales de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos generados por el IDE
+.vs/
+.idea/
+.vscode/
+
+# Archivos generados por el motor de Unreal
+Saved/
+Intermediate/
+DerivedDataCache/
+
+# Archivos binarios generados
+Binaries/
+
+# Archivos de paquetes de Unreal
+*.pak
+
+# Archivos de logs
+*.log
+
+# Archivos de mapas construidos
+*_BuiltData.uasset
+
+# Archivos de plugins
+Plugins/**/Binaries/*
