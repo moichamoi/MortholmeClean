@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/jahue/Documents/GitHub/Mortholme/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/jahue/Documents/GitHub/Mortholme/Content/Blocking.umap",
+				"C:/Users/jahue/Documents/GitHub/Mortholme/Content/Assets/Espada/BP_SwordDesintegrate.uasset",
+				"C:/Users/jahue/Documents/GitHub/Mortholme/Content/NiagaraFX/NS_StaticDisintegration.uasset",
+				"C:/Users/jahue/Documents/GitHub/Mortholme/Content/NiagaraFX/Materials/M_MeshParticle.uasset",
+				"C:/Users/jahue/Documents/GitHub/Mortholme/Content/Assets/Espada/BP_Sword.uasset",
+				"C:/Users/jahue/Documents/GitHub/Mortholme/Content/Assets/Espada/MAT_Sword.uasset",
+				"C:/Users/jahue/Documents/GitHub/Mortholme/Content/Assets/Corona/BP_Exploded_CoronaOscura.uasset",
+				"C:/Users/jahue/Documents/GitHub/Mortholme/Content/Test_Ground.umap",
+				"C:/Users/jahue/Documents/GitHub/Mortholme/Content/Sun_Animate.uasset",
+				"C:/Users/jahue/Documents/GitHub/Mortholme/Content/Megascans/Decals/Ivy_thdlqjh/MI_Ivy_thdlqjh_4K.uasset",
+				"C:/Users/jahue/Documents/GitHub/Mortholme/Content/Vegetacion/MSPresets/M_MS_Decal_Material/M_MS_Decal_Material.uasset",
+				"C:/Users/jahue/Documents/GitHub/Mortholme/Content/Vegetacion/Megascans/Decals/Ivy_thdlqjh/MI_Ivy_thdlqjh_4K.uasset",
+				"C:/Users/jahue/Documents/GitHub/Mortholme/Content/Assets/Espada/MAT_DesintegrateSword.uasset",
+				"C:/Users/jahue/Documents/GitHub/Mortholme/Content/Assets/Espada/NS_Desintegrate.uasset"
+			]
+		}
+	]
+}
